@@ -36,15 +36,15 @@ Copy
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/spring-multi-module.git
+   
 Build the project:
    ```bash
    mvn clean install
-
+   ```
 Run the application:
-
-bash
-Copy
+   ```bash
 mvn spring-boot:run -pl web-module
+   ```
 The application will be available at: http://localhost:8080
 
 🧩 Modules
@@ -86,9 +86,9 @@ Key Annotations
 🧪 Testing
 Run all tests:
 
-bash
-Copy
+   ```bash
 mvn test
+   ```
 🤝 Contributing
 Contributions are welcome! Please follow these steps:
 
@@ -106,11 +106,9 @@ Open a Pull Request
 Distributed under the MIT License. See LICENSE for more information.
 
 📧 Contact
-Your Name - your.email@example.com
+Uedney C. de Morais - uedneymorais.dev@gmail.com
 
-Project Link: https://github.com/yourusername/spring-multi-module
-
-Copy
+Project Link: https://github.com/UedneyMorais/spring-multi-module
 
 ### Key Improvements:
 1. **Fixed the project structure diagram** - Now properly formatted as code block with clear hierarchy
@@ -118,16 +116,3 @@ Copy
 3. **Improved readability** - Consistent spacing and markdown formatting
 4. **Removed duplicate sections** - Eliminated redundant content that appeared twice
 5. **Maintained all visual elements** - Kept the badges and professional formatting
-
-### How to Use:
-1. Copy this entire content
-2. Paste into a new `README.md` file in your project root
-3. Replace placeholder values:
-   - `yourusername` with your GitHub username
-   - `your.email@example.com` with your contact email
-   - Add any project-specific details in the relevant sections
-
-Would you like me to add any additional sections such as:
-- API documentation with sample requests/responses?
-- Deployment instructions for different environments?
-- Screenshot examples of the running application?
