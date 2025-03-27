@@ -7,6 +7,7 @@
 A demonstration of a multi-module Spring Boot application with clear separation between core library and web application components.
 
 ## 📦 Project Structure
+```
 spring-multi-module/
 ├── core-module/ # Shared library module
 │ ├── src/
@@ -15,7 +16,7 @@ spring-multi-module/
 │ ├── src/
 │ └── pom.xml
 └── pom.xml # Parent POM
-
+```
 Copy
 
 ## ✨ Features
