@@ -37,11 +37,11 @@ Copy
    ```bash
    git clone https://github.com/yourusername/spring-multi-module.git
 Build the project:
+   ```bash
+   mvn clean install
 
-bash
-Copy
-mvn clean install
-Running the Application
+Run the application:
+
 bash
 Copy
 mvn spring-boot:run -pl web-module
